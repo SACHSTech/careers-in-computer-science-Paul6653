@@ -56,7 +56,9 @@ The University of Toronto offers an undergraduate [program](https://future.utoro
 * Four years to complete an undergraduate degree
 
 # Experiential Learning
-
+* Participating in a Hackathon event like [this one](https://hackon.hackerearth.com/) helps familiarize an environment where you must work with others to deliver a project in a limited amount of time.
+* Joining a club at school related to programming (ex. app development) develops technical skills and non-technical skills related to teamwork.
+* Any volunteering experience such as working in a food bank builds non-technical skills such as communication, time management, and professionalism.
 
 # Jobs
 |Job Title|Salary|Location|Experience|
