@@ -77,7 +77,7 @@ The University of Toronto offers an undergraduate [program](https://future.utoro
 #### Senior Game Programmer for Torn Banner Studios:
 * Responsible for a wide range of tasks, including the implementation of new features as well as debugging and optimizing existing ones.
 
-### Works Cited
+## Works Cited
 
 “Computer Science.” Computer Science | Academic Calendar, [fas.calendar.utoronto.ca/section/Computer-Science](fas.calendar.utoronto.ca/section/Computer-Science). 
 
