@@ -64,8 +64,8 @@ The University of Toronto offers an undergraduate [program](https://future.utoro
 
 ### Job Descriptions
 #### Game Developer for Creative Game Technologies: 
-As a Game Developer you are an expert working with Unity3D and proficient in object oriented programming using C#.
+* As a Game Developer you are an expert working with Unity3D and proficient in object oriented programming using C#.
 #### Video Game Programmer for Game Pill:
-Responsible for working on core game mechanics, tools and infrastructure, and providing valuable insight into all aspects of the game production process.|At least 3 years working as a game programmer with Unity and C#
+* Responsible for working on core game mechanics, tools and infrastructure, and providing valuable insight into all aspects of the game production process.|At least 3 years working as a game programmer with Unity and C#
 #### Senior Game Programmer for Torn Banner Studios:
-Responsible for a wide range of tasks, including the implementation of new features as well as debugging and optimizing existing ones.
+* Responsible for a wide range of tasks, including the implementation of new features as well as debugging and optimizing existing ones.
