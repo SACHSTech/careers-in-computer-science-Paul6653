@@ -25,7 +25,10 @@ Video game developers work in teams to design and produce video games.
 ### Salary
 * The national average salary for game developers in Canada is $62,000.
 
-## Standard Education
+# Standard Education
+![](https://cdn.pixabay.com/photo/2017/09/08/00/16/the-university-of-toronto-2727241_1280.jpg)
+
+## University of Toronto
 The University of Toronto offers an undergraduate [program](https://future.utoronto.ca/undergraduate-programs/computer-science/) in Computer Science.
 
 ### Entrance requirements
@@ -52,10 +55,10 @@ The University of Toronto offers an undergraduate [program](https://future.utoro
 ### Length of Time to Complete programming
 * Four years to complete an undergraduate degree
 
-## Experiential Learning
-* 
+# Experiential Learning
 
-## Real Jobs
+
+# Jobs
 |Job Title|Salary|Location|Experience|
 |---|:---:|:---:|:---:|
 |[Game Developer for Creative Game Technologies](https://www.workopolis.com/jobsearch/find-jobs?ak=game+developer&l=Richmond+Hill%2C+ON&job=ob8UWSlSVqYsGHwOxcAvAnVWGf7L6sWwEShqBURcy_U3f9kD-GtwDw)|$53-70K|Toronto, ON|1 Year working with Unity3D. Must be proficient in object-oriented programming in C#|
