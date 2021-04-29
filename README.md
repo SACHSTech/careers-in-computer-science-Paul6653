@@ -56,8 +56,8 @@ The University of Toronto offers an undergraduate [program](https://future.utoro
 * 
 
 ## Real Jobs
-|Salary|Location|Job Description|Experience
----|:---:|:---:|:---:|:---:|:---:
-[Game Developer for Creative Game Technologies](https://www.workopolis.com/jobsearch/find-jobs?ak=game+developer&l=Richmond+Hill%2C+ON&job=ob8UWSlSVqYsGHwOxcAvAnVWGf7L6sWwEShqBURcy_U3f9kD-GtwDw)|$53-70K|Toronto, ON|As a Game Developer you are an expert working with Unity3D and proficient in object oriented programming using C#.|1 Year working with Unity3D. Must be proficient in object-oriented programming in C#
-[Video Game Programmer for Game Pill](https://ca.indeed.com/jobs?q=Video%20Game%20Developer&l=Markham%2C%20ON&radius=50&vjk=df94e54cb3ddb9df)|$45K|Concord, ON|Responsible for working on core game mechanics, tools and infrastructure, and providing valuable insight into all aspects of the game production process.|At least 3 years working as a game programmer with Unity and C#
-[Senior Game Programmer for Torn Banner Studios](https://www.workopolis.com/jobsearch/find-jobs?ak=senior+game+developer&l=Richmond+Hill%2C+ON&job=hATbqswfzMC6hYqEaJyN1iRBsRtWwyzsTM6SmJeycTsT6Rciec7y-g)|$79-110K|Toronto, ON|Responsible for a wide range of tasks, including the implementation of new features as well as debugging and optimizing existing ones.|At least 5 years of professional video game programming experience. Must be proficient in C##.
+|Job Title|Salary|Location|Job Description|Experience|
+|---|:---:|:---:|:---:|:---:|:---:|
+|[Game Developer for Creative Game Technologies](https://www.workopolis.com/jobsearch/find-jobs?ak=game+developer&l=Richmond+Hill%2C+ON&job=ob8UWSlSVqYsGHwOxcAvAnVWGf7L6sWwEShqBURcy_U3f9kD-GtwDw)|$53-70K|Toronto, ON|As a Game Developer you are an expert working with Unity3D and proficient in object oriented programming using C#.|1 Year working with Unity3D. Must be proficient in object-oriented programming in C#|
+|[Video Game Programmer for Game Pill](https://ca.indeed.com/jobs?q=Video%20Game%20Developer&l=Markham%2C%20ON&radius=50&vjk=df94e54cb3ddb9df)|$45K|Concord, ON|Responsible for working on core game mechanics, tools and infrastructure, and providing valuable insight into all aspects of the game production process.|At least 3 years working as a game programmer with Unity and C#|
+|[Senior Game Programmer for Torn Banner Studios](https://www.workopolis.com/jobsearch/find-jobs?ak=senior+game+developer&l=Richmond+Hill%2C+ON&job=hATbqswfzMC6hYqEaJyN1iRBsRtWwyzsTM6SmJeycTsT6Rciec7y-g)|$79-110K|Toronto, ON|Responsible for a wide range of tasks, including the implementation of new features as well as debugging and optimizing existing ones.|At least 5 years of professional video game programming experience. Must be proficient in C##.|
