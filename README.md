@@ -42,7 +42,9 @@ The University of Toronto offers an undergraduate [program](https://future.utoro
 * CSC110Y1: Foundations of Computer Science I.
   * No prior programming knowledge required.
   * Introduction to the field of computer science combining tools of programming with mathematical analysis and reasoning. 
-
+* MAT223H1: Introduction to Linear Algebra
+  * Prerequisite: High school Calculus.
+  * Linear Equation Systems, Matrix Alebra, Vector Spaces, and more.
 * CSC108H1: Introduction to Computer Programming.
   * No prior programming experience required. 
   * Elementary data types, lists, maps.  
