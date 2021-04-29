@@ -78,7 +78,11 @@ The University of Toronto offers an undergraduate [program](https://future.utoro
 * Responsible for a wide range of tasks, including the implementation of new features as well as debugging and optimizing existing ones.
 
 ### Works Cited
-“Computer Science.” Computer Science | Academic Calendar, [fas.calendar.utoronto.ca/section/Computer-Science](fas.calendar.utoronto.ca/section/Computer-Science).  
-“Computer Science.” Future Students. University of Toronto, 24 Nov. 2020, [future.utoronto.ca/undergraduate-programs/computer-science/](future.utoronto.ca/undergraduate-programs/computer-science/).    
-Game Developer Job Description. 20 July 2018, [www.jobhero.com/job-description/examples/computer-software/game-developer#:~:text=Game%20developers%20work%20on%20teams,the%20game's%20features%20and%20functionality](www.jobhero.com/job-description/examples/computer-software/game-developer#:~:text=Game%20developers%20work%20on%20teams,the%20game's%20features%20and%20functionality).     
+
+“Computer Science.” Computer Science | Academic Calendar, [fas.calendar.utoronto.ca/section/Computer-Science](fas.calendar.utoronto.ca/section/Computer-Science). 
+
+“Computer Science.” Future Students. University of Toronto, 24 Nov. 2020, [future.utoronto.ca/undergraduate-programs/computer-science/](future.utoronto.ca/undergraduate-programs/computer-science/). 
+
+Game Developer Job Description. 20 July 2018, [www.jobhero.com/job-description/examples/computer-software/game-developer#:~:text=Game%20developers%20work%20on%20teams,the%20game's%20features%20and%20functionality](www.jobhero.com/job-description/examples/computer-software/game-developer#:~:text=Game%20developers%20work%20on%20teams,the%20game's%20features%20and%20functionality).   
+
 “HackOn 2.0 on HackerEarth.” HackerEarth, [hackon.hackerearth.com/](hackon.hackerearth.com/).    
